@@ -87,3 +87,8 @@ Through this project, I gained hands-on experience with:
 The architecture was tested by terminating EC2 instances in the Auto Scaling Group and confirming that replacement instances were launched automatically while the application remained available through the load balancer.
 
 The RDS database was also accessed from an EC2 application server to confirm private database connectivity.
+
+## Additional Documentation
+
+- [Design Decisions](docs/design-decisions.md)
+- [Troubleshooting Notes](docs/troubleshooting.md)
