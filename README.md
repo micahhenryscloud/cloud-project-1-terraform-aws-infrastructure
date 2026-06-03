@@ -1,4 +1,7 @@
 # AWS Three-Tier Infrastructure with Terraform
+## Architecture Diagram
+
+![Architecture Diagram](images/architecture-diagram.png)
 
 ## Overview
 
